@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PubTime</string>
+    <string name="szukaj">Szukaj</string>
+    <string name="pilka">Mecze piłkarskie</string>
+    <string name="zuzel">Zawody żużlowe</string>
+    <string name="tenis">Mecze tenisa</string>
+    <string name="welcomeMessage">Wybierz w jakim zasięgu chcesz znaleźć pub</string>
 </resources>
